@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junqi Jiang"
+  name             : "Junqi (Jay) Jiang"
   avatar           : "profile-processed.jpg"
   bio              : "PhD Computing Research Student at the Department of Computing, Imperial College London"
   location         : "London, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NcFKI8kAAAAJ&hl=en&oi=ao"
-  email            :
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,10 @@ author:
   github           : "junqi-jiang"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/junqi-jiang/"
   orcid            : "https://orcid.org/0000-0002-7007-0560"
   pinterest        :
   soundcloud       :
