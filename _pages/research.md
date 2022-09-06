@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Formalising the Robustness of Counterfactual Explanations for Neural Networks](https://arxiv.org/abs/2208.14878). Junqi Jiang*, Francesco Leofante*, Antonio Rago, Francesca Toni. Arxiv Preprint:2208:14878. 2022.
+
+Should Counterfactual Explanations Always Be Data Instances? Junqi Jiang, Antonio Rago, Francesca Toni. XLoKR 2022: The Third Workshop on Explainable Logic-Based Knowledge Representation. 2022.
