@@ -21,9 +21,9 @@ I thought I would never study anything related to science and technology but, we
 
 I love Edinburgh, it's the most lovely city and I encourage everyone to visit if possible. 
 
-I enjoy cold wethers. 
+I enjoy cold weathers. 
 
-I have suffered from the hot and humid wether in Guangzhou. 
+I have suffered from the hot and humid weather in Guangzhou. 
 
 I can understand Cantonese but I speak very little. 
 
