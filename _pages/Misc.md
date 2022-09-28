@@ -31,7 +31,7 @@ I love Cantonese foods and, in fact, all Asian foods.
 
 Most often I make fried rice, then it's Chinese style teriyaki chicken. 
 
-Me and my lovely wife, we enjoy travelling around the world.
+Me and my lovely wife Norah, we enjoy travelling around the world.
 
 2 is greater than 1.
 
