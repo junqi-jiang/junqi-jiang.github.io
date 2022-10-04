@@ -13,7 +13,7 @@ My Chinese name is 江俊岐, pronounced as 江Jiang 俊June 岐Chee (? somewhat
 
 I was born and raised in Beijing, China, while having a family origin in Jiayu, Hubei, a small town south to Wuhan. 
 
-I have been playing Saxophone since I was 8, both classical in orchestras and Jazz for fun. 
+I have been playing Saxophone since I was 8, both classical in orchestras, and Jazz for fun. 
 
 When I am listening to music, for more than 95% of the time I am listening to ZHOU Jielun / Jay Chou, but my one favorite song is *All of Me* by John Legend. 
 
@@ -34,5 +34,7 @@ Most often I make fried rice, then it's Chinese style teriyaki chicken.
 Me and my lovely wife Norah, we enjoy travelling around the world.
 
 2 is greater than 1.
+
+Problems in life can usually be solved by just a simple search in google. Yet people tend to ignore this.
 
 ...
