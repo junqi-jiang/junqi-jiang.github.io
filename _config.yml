@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junqi (Jay) Jiang"
+title                    : "Jay Jiang"
 title_separator          : "-"
-name                     : &name "Junqi (Jay) Jiang"
+name                     : &name "Jay Jiang"
 description              : &description "PhD Computing Research at Imperial College London"
 url                      : https://junqi-jiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junqi (Jay) Jiang"
+  name             : "Jay Jiang"
   avatar           : "profile-processed.jpg"
   bio              : "PhD Computing Research Student at Imperial College"
   location         : "London, UK"
