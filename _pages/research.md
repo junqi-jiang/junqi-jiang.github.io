@@ -21,6 +21,6 @@ author_profile: true
 
 ## 2022
 
-- [**Should Counterfactual Explanations Always Be Data Instances?**](https://sites.google.com/view/xlokr2022) **J. Jiang**, A. Rago, F. Toni. The Third Workshop on Explainable Logic-Based Knowledge Representation (XLoKR @ KR), 2022.
+- [**Should Counterfactual Explanations Always Be Data Instances?**](https://sites.google.com/view/xlokr2022) **J. Jiang**, A. Rago, F. Toni. The 3rd Workshop on Explainable Logic-Based Knowledge Representation (XLoKR @ KR), 2022.
 
 <sub>*equal contributions</sub>
