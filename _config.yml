@@ -116,6 +116,7 @@ author:
   youtube          :
   wikipedia        :
 
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Reading Files
 include:
