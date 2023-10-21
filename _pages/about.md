@@ -12,7 +12,7 @@ I am a PhD Computing Research Student (started April 2022) at the [Department of
 
 Previously, I completed my MSc Computing degree from Imperial in 2021, and I have two BEng degrees (2020) from [the University of Edinburgh](https://www.ed.ac.uk/) where I did the last two years with a dissertation, and [South China University of Technology](https://www.scut.edu.cn/en/) where I spent the first two years.
 
-## Research
+# Research
 
 - The Recourse Problem Under Model Multiplicity.\
 **J. Jiang**\*, A. Rago\*, F. Leofante, F. Toni. The 3rd Workshop on Explainable AI in Finance (XAIFIN @ ICAIF), 2023.
