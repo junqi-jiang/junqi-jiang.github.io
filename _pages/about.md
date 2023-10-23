@@ -14,7 +14,7 @@ Previously, I completed my MSc Computing degree from Imperial in 2021, and I hav
 
 # Research
 
-- [**The Recourse Problem Under Model Multiplicity**](https://junqi-jiang.github.io/files/recourse_xaifin23.pdf)\
+- **The Recourse Problem Under Model Multiplicity**\
 **J. Jiang**\*, A. Rago\*, F. Leofante, F. Toni. The 3rd Workshop on Explainable AI in Finance (XAIFIN @ ICAIF), 2023.
 
 - [**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**](https://arxiv.org/abs/2309.12545)\
