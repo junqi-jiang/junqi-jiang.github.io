@@ -14,7 +14,7 @@ Previously, I completed my MSc Computing degree from Imperial in 2021, and I hav
 
 # Research
 
-- **Recourse under Model Multiplicity via Argumentative Ensembling**\
+- [**Recourse under Model Multiplicity via Argumentative Ensembling**](https://arxiv.org/abs/2312.15097)\
 **J. Jiang**\*, A. Rago\*, F. Leofante, F. Toni. The 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.
 
 - [**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**](https://arxiv.org/abs/2309.12545)\
