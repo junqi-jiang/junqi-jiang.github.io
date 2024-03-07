@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Computing Research Student (started April 2022) at the [Department of Computing](https://www.imperial.ac.uk/computing) of [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr Francesco Leofante](https://fraleo.github.io/), funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I'm also a TA at the Department of Computing and Imperial College Business School, helping with several AI / ML and programming courses. I'll be interning as an AI Research Associate at [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) for the second half of 2024.
+I am a PhD Computing Research Student (started April 2022) at the [Department of Computing](https://www.imperial.ac.uk/computing) of [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr Francesco Leofante](https://fraleo.github.io/), funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I'm also a TA at the Department of Computing and Imperial College Business School, helping with several AI / ML and programming courses. I'll be interning as an AI Research Associate at [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) from June to December 2024.
 
 Previously, I completed my MSc Computing degree from Imperial in 2021, and I have two BEng degrees (2020), one from [the University of Edinburgh](https://www.ed.ac.uk/) where I did the last two years with a dissertation, and one from [South China University of Technology](https://www.scut.edu.cn/en/) where I spent the first two years.
 
@@ -22,7 +22,7 @@ My research interest spans the spectrum of AI trustworthiness, including its tra
 - [**Recourse under Model Multiplicity via Argumentative Ensembling**](https://arxiv.org/abs/2312.15097)\
 **J. Jiang**\*, A. Rago\*, F. Leofante, F. Toni. The 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.
 
-- [**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**](https://arxiv.org/abs/2309.12545)\
+- [**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**](https://proceedings.mlr.press/v222/jiang24a.html)\
 **J. Jiang**, J. Lan, F. Leofante, A. Rago, F. Toni. The 15th Asian Conference on Machine Learning (ACML), 2023.
 
 - [**Formalising the Robustness of Counterfactual Explanations for Neural Networks**](https://ojs.aaai.org/index.php/AAAI/article/view/26740)\
