@@ -18,8 +18,11 @@ Previously, I completed my MSc Computing degree from Imperial in 2021. I have tw
 
 ## Research
 
-- [**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://arxiv.org/abs/2402.01928)\
+- **Interval Abstractions for Robust Counterfactual Explanations**\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni. 2024.
+
+- [**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://arxiv.org/abs/2402.01928)\
+**J. Jiang**, F. Leofante, A. Rago, F. Toni. 2024. The 33rd International Joint Conference on Artificial Intelligence (IJCAI) Survey Track, 2024.
 
 - [**Recourse under Model Multiplicity via Argumentative Ensembling**](https://arxiv.org/abs/2312.15097)\
 **J. Jiang**\*, A. Rago\*, F. Leofante, F. Toni. The 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.
