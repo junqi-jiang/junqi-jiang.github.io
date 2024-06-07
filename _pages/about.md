@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Computing Research Student (started April 2022) at the [Department of Computing](https://www.imperial.ac.uk/computing) of [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr Francesco Leofante](https://fraleo.github.io/), funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I'm also a TA at the Department of Computing and Imperial College Business School, helping with several AI / ML and programming courses. 
-
-From June to December 2024, I'll intern as an AI Researcher at [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) in London.
+I am a PhD Computing Research Student (started April 2022) at the [Department of Computing](https://www.imperial.ac.uk/computing) of [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr Francesco Leofante](https://fraleo.github.io/), funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I'm also a TA at the Department of Computing and Imperial College Business School, helping with several AI / ML and programming courses. From June to December 2024, I'm working as an AI Research Intern at the [Explainable AI Center of Excellence](https://www.jpmorgan.com/technology/artificial-intelligence/initiatives/explainable-ai-center-of-excellence) of [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence), based in London.
 
 My research interest spans the spectrum of AI trustworthiness, including its explainability, robustness, fairness, privacy, etc. I'm focusing on counterfactual explanations (algorithmic recourse), robustness of explanations, and predictive multiplicity. Other projects I'm working on include explainability for graph neural networks and deep learning for Formula 1 race strategy.
 
-Previously, I completed my MSc Computing degree from Imperial in 2021. I have two BEng degrees (2020), one from [the University of Edinburgh](https://www.ed.ac.uk/) where I did the last two years with a dissertation, and one from [South China University of Technology](https://www.scut.edu.cn/en/) where I spent the first two years.
+Previously, I completed my MSc Computing degree from Imperial in 2021. I have two BEng degrees (2020) from [the University of Edinburgh](https://www.ed.ac.uk/) and from [South China University of Technology](https://www.scut.edu.cn/en/).
 
 ## Research
 
