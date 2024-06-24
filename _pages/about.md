@@ -16,8 +16,14 @@ Previously, I completed my MSc Computing degree from Imperial in 2021. I receive
 
 ## Research
 
+- [**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://arxiv.org/abs/2406.13724)\
+X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar. Preprint, 2024.
+
+- [**Contestable AI needs Computational Argumentation**](https://arxiv.org/abs/2405.10729)\
+F. Leofante, H. Ayoobi, A. Dejl, G. Freedman, D. Gorur, **J. Jiang**, G. Paulino-Passos, A. Rago, A. Rapberger, F. Russo, X. Yin, D. Zhang, F. Toni. Preprint, 2024.
+
 - [**Interval Abstractions for Robust Counterfactual Explanations**](https://arxiv.org/abs/2404.13736)\
-**J. Jiang**, F. Leofante, A. Rago, F. Toni. 2024.
+**J. Jiang**, F. Leofante, A. Rago, F. Toni. Preprint, 2024.
 
 - [**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://arxiv.org/abs/2402.01928)\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni. The 33rd International Joint Conference on Artificial Intelligence (IJCAI), Survey Track, 2024.
