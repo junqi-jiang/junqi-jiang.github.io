@@ -16,29 +16,38 @@ Previously, I completed my MSc Computing degree from Imperial in 2021. I receive
 
 ## Research
 
-- [**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://arxiv.org/abs/2406.13724)\
-X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar. Preprint, 2024.
-
-- [**Contestable AI needs Computational Argumentation**](https://arxiv.org/abs/2405.10729)\
-F. Leofante, H. Ayoobi, A. Dejl, G. Freedman, D. Gorur, **J. Jiang**, G. Paulino-Passos, A. Rago, A. Rapberger, F. Russo, X. Yin, D. Zhang, F. Toni. Preprint, 2024.
+### 2024
 
 - [**Interval Abstractions for Robust Counterfactual Explanations**](https://arxiv.org/abs/2404.13736)\
-**J. Jiang**, F. Leofante, A. Rago, F. Toni. Preprint, 2024.
+**J. Jiang**, F. Leofante, A. Rago, F. Toni. \
+  To appear in *Artificial Intelligence (AIJ)*, 2024.
 
 - [**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://arxiv.org/abs/2402.01928)\
-**J. Jiang**, F. Leofante, A. Rago, F. Toni. The 33rd International Joint Conference on Artificial Intelligence (IJCAI), Survey Track, 2024.
+**J. Jiang**, F. Leofante, A. Rago, F. Toni. \
+  *The 33rd International Joint Conference on Artificial Intelligence (IJCAI)*, Survey Track, 2024.
 
 - [**Recourse under Model Multiplicity via Argumentative Ensembling**](https://dl.acm.org/doi/10.5555/3635637.3662950)\
-**J. Jiang**, F. Leofante, A. Rago, F. Toni. The 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.\
+**J. Jiang**, F. Leofante, A. Rago, F. Toni. \
+  *The 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)*, 2024.\
 **Nominated for Best Student Paper Award at AAMAS 2024, runner-up.**
 
+- [**Contestable AI needs Computational Argumentation**](https://arxiv.org/abs/2405.10729)\
+F. Leofante, H. Ayoobi, A. Dejl, G. Freedman, D. Gorur, **J. Jiang**, G. Paulino-Passos, A. Rago, A. Rapberger, F. Russo, X. Yin, D. Zhang, F. Toni. \
+*The 21st International Conference on Principles of Knowledge Representation and Reasoning (KR)*, 2024.
+
+- [**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://arxiv.org/abs/2406.13724)\
+X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar. \
+Preprint, 2024.
+
+### 2023
+
 - [**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**](https://proceedings.mlr.press/v222/jiang24a.html)\
-**J. Jiang**, J. Lan, F. Leofante, A. Rago, F. Toni. The 15th Asian Conference on Machine Learning (ACML), 2023.
+**J. Jiang**, J. Lan, F. Leofante, A. Rago, F. Toni. \
+  *The 15th Asian Conference on Machine Learning (ACML)*, 2023.
 
 - [**Formalising the Robustness of Counterfactual Explanations for Neural Networks**](https://ojs.aaai.org/index.php/AAAI/article/view/26740)\
-**J. Jiang**\*, F. Leofante\*, A. Rago, F. Toni. The 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.
+**J. Jiang**\*, F. Leofante\*, A. Rago, F. Toni. \
+  *The 37th AAAI Conference on Artificial Intelligence (AAAI)*, 2023.
 
-- [**Should Counterfactual Explanations Always Be Data Instances?**](https://sites.google.com/view/xlokr2022)\
-**J. Jiang**, A. Rago, F. Toni. The 3rd Workshop on Explainable Logic-Based Knowledge Representation (XLoKR @ KR), 2022.
 
 <sub>*equal contributions</sub>
