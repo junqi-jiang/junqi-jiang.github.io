@@ -18,9 +18,9 @@ Previously, I completed my MSc Computing degree from Imperial in 2021. I receive
 
 ### 2024
 
-- [**Interval Abstractions for Robust Counterfactual Explanations**](https://arxiv.org/abs/2404.13736)\
+- [**Interval Abstractions for Robust Counterfactual Explanations**](https://doi.org/10.1016/j.artint.2024.104218)\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni. \
-  To appear in *Artificial Intelligence (AIJ)*, 2024.
+  *Artificial Intelligence (AIJ)*, 2024.
 
 - [**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://arxiv.org/abs/2402.01928)\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni. \
