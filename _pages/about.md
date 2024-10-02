@@ -22,7 +22,7 @@ Previously, I completed my MSc Computing degree from Imperial in 2021. I receive
 **J. Jiang**, F. Leofante, A. Rago, F. Toni. \
   *Artificial Intelligence (AIJ)*, 2024.
 
-- [**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://arxiv.org/abs/2402.01928)\
+- [**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://www.ijcai.org/proceedings/2024/894)\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni. \
   *The 33rd International Joint Conference on Artificial Intelligence (IJCAI)*, Survey Track, 2024.
 
