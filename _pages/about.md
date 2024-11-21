@@ -18,6 +18,15 @@ Previously, I completed my MSc Computing degree from Imperial in 2021. I receive
 
 ## Research
 
+### 2025
+
+- **Explainable Reinforcement Learning for Formula One Race Strategy**\
+D. Thomas, **J. Jiang**, A. Kori, A. Russo, S. Winkler, S. Sale, J. McMillan, F. Belardinelli, A. Rago \
+*The 40th ACM/SIGAPP Symposium on Applied Computing (SAC)*, 2025
+- **Explainable Time Series Prediction of Tyre Energy in Formula One Race Strategy**\
+J. Todd, **J. Jiang**, A. Russo, S. Winkler, S. Sale, J. McMillan, A. Rago \
+*The 40th ACM/SIGAPP Symposium on Applied Computing (SAC)*, 2025
+
 ### 2024
 
 - [**Interval Abstractions for Robust Counterfactual Explanations**](https://doi.org/10.1016/j.artint.2024.104218)\
