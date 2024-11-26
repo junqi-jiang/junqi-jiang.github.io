@@ -30,6 +30,10 @@ J. Todd, **J. Jiang**, A. Russo, S. Winkler, S. Sale, J. McMillan, A. Rago \
 
 ### 2024
 
+- [**Interpreting Language Reward Models via Contrastive Explanations**](https://arxiv.org/abs/2411.16502)\
+**J. Jiang**, T. Bewley, S. Mishra, F. Lecue, M. Veloso.\
+  *Preprint*, 2024.
+
 - [**Interval Abstractions for Robust Counterfactual Explanations**](https://doi.org/10.1016/j.artint.2024.104218)\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni. \
   *Artificial Intelligence (AIJ)*, 2024.
@@ -49,7 +53,7 @@ F. Leofante, H. Ayoobi, A. Dejl, G. Freedman, D. Gorur, **J. Jiang**, G. Paulino
 
 - [**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://arxiv.org/abs/2406.13724)\
 X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar. \
-Preprint, 2024.
+*Preprint*, 2024.
 
 ### 2023
 
