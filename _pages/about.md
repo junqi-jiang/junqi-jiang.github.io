@@ -10,9 +10,9 @@ redirect_from:
 
 I am a PhD Computing Research Student (started April 2022) at the [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/) group at [Department of Computing](https://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr Francesco Leofante](https://fraleo.github.io/), funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). From June to December 2024, I interned as an AI Research Associate at J.P. Morgan [Explainable AI Center of Excellence](https://www.jpmorgan.com/technology/artificial-intelligence/initiatives/explainable-ai-center-of-excellence), working with [Dr Tom Bewley](https://tombewley.com/) and [Dr Saumitra Mishra](https://sites.google.com/site/saumitramishrac4dm).
 
-My research interest spans the spectrum of AI trustworthiness, including explainable AI and mechanistic interpretability, robustness, fairness, privacy, etc. I have mostly worked on improving the quality of counterfactual explanations (for recourse purposes) by studying their robustness, and topics related to model multiplicity. I'm also interested in leveraging interpretability techniques for machine learning model evaluation and improvements. 
+My research interest spans the spectrum of AI trustworthiness, including explainable AI, mechanistic interpretability, robustness, fairness, privacy, etc. I have mostly worked on improving the quality of counterfactual explanations (for recourse purposes) by studying their robustness, and topics related to model multiplicity. I'm also interested in leveraging interpretability techniques for machine learning model evaluation and improvements. 
 
-I'm also involved in teaching and student supervision activities at Imperial, and some applied projects like explainable graph neural networks for city planning and deep learning for Formula One race strategy, featuring collaborations with the [Mercedes-AMG PETRONAS F1 Team](https://www.mercedesamgf1.com/team).
+I'm also involved in teaching and student supervision activities at Imperial, and some applied projects like explainable graph neural networks for city planning and deep learning for Formula One race strategy.
 
 Previously, I completed my MSc Computing degree from Imperial in 2021. I received two BEng degrees (2020) from [the University of Edinburgh](https://www.ed.ac.uk/) and [South China University of Technology](https://www.scut.edu.cn/en/).
 
@@ -20,11 +20,11 @@ Previously, I completed my MSc Computing degree from Imperial in 2021. I receive
 
 ### 2025
 
-- **Explainable Reinforcement Learning for Formula One Race Strategy**\
+- [**Explainable Reinforcement Learning for Formula One Race Strategy**](https://arxiv.org/abs/2501.04068)\
 D. Thomas, **J. Jiang**, A. Kori, A. Russo, S. Winkler, S. Sale, J. McMillan, F. Belardinelli, A. Rago \
 *The 40th ACM/SIGAPP Symposium on Applied Computing (SAC)*, 2025
 
-- **Explainable Time Series Prediction of Tyre Energy in Formula One Race Strategy**\
+- [**Explainable Time Series Prediction of Tyre Energy in Formula One Race Strategy**](https://arxiv.org/abs/2501.04067)\
 J. Todd, **J. Jiang**, A. Russo, S. Winkler, S. Sale, J. McMillan, A. Rago \
 *The 40th ACM/SIGAPP Symposium on Applied Computing (SAC)*, 2025
 
