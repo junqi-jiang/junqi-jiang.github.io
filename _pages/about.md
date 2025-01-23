@@ -71,4 +71,4 @@ X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar
 
 ---
 
-<sub>* equal contributions</sub>\
+<sub>* equal contributions</sub>
