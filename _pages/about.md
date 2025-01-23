@@ -19,7 +19,7 @@ Previously, I completed my MSc Computing degree from Imperial in 2021. I receive
 
 # Research
 
-### 2025
+## 2025
 
 [**Interpreting Language Reward Models via Contrastive Explanations**](https://arxiv.org/abs/2411.16502)\
 **[ICLR 2025]**  *The 13th International Conference on Learning Representations*\
@@ -36,7 +36,7 @@ J. Todd, **J. Jiang**, A. Russo, S. Winkler, S. Sale, J. McMillan, A. Rago
 
 ---
 
-### 2024
+## 2024
 
 [**Interval Abstractions for Robust Counterfactual Explanations**](https://doi.org/10.1016/j.artint.2024.104218)\
 **[AIJ 2024]**  *Artificial Intelligence Journal*\
@@ -61,7 +61,7 @@ X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar
 
 ---
 
-### 2023
+## 2023
 
 [**Formalising the Robustness of Counterfactual Explanations for Neural Networks**](https://ojs.aaai.org/index.php/AAAI/article/view/26740)\
 **[AAAI 2023]**  *The 37th AAAI Conference on Artificial Intelligence*\
