@@ -37,15 +37,15 @@ J. Todd, **J. Jiang**, A. Russo, S. Winkler, S. Sale, J. McMillan, A. Rago
 
 ## 2024
 
-[**Interval Abstractions for Robust Counterfactual Explanations**](https://doi.org/10.1016/j.artint.2024.104218)\
+🎷 [**Interval Abstractions for Robust Counterfactual Explanations**](https://doi.org/10.1016/j.artint.2024.104218)\
 **[AIJ 2024]**  *Artificial Intelligence Journal*\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni
 
-[**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://www.ijcai.org/proceedings/2024/894)\
+🎷 [**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://www.ijcai.org/proceedings/2024/894)\
 **[IJCAI 2024]**  *The 33rd International Joint Conference on Artificial Intelligence, Survey Track*\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni
 
-[**Recourse under Model Multiplicity via Argumentative Ensembling**](https://dl.acm.org/doi/10.5555/3635637.3662950)\
+🎷 [**Recourse under Model Multiplicity via Argumentative Ensembling**](https://dl.acm.org/doi/10.5555/3635637.3662950)\
 **[AAMAS 2024]**  *The 23rd International Conference on Autonomous Agents and Multi-Agent Systems*\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni\
 **Nominated for Best Student Paper Award at AAMAS 2024, runner-up**
@@ -61,14 +61,15 @@ X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar
 
 ## 2023
 
-[**Formalising the Robustness of Counterfactual Explanations for Neural Networks**](https://ojs.aaai.org/index.php/AAAI/article/view/26740)\
+🎷 [**Formalising the Robustness of Counterfactual Explanations for Neural Networks**](https://ojs.aaai.org/index.php/AAAI/article/view/26740)\
 **[AAAI 2023]**  *The 37th AAAI Conference on Artificial Intelligence*\
 **J. Jiang**\*, F. Leofante\*, A. Rago, F. Toni
 
-[**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**](https://proceedings.mlr.press/v222/jiang24a.html)\
+🎷 [**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**](https://proceedings.mlr.press/v222/jiang24a.html)\
 **[ACML 2023]**  *The 15th Asian Conference on Machine Learning*\
 **J. Jiang**, J. Lan, F. Leofante, A. Rago, F. Toni
 
 ---
 
-<sub>* equal contributions</sub>
+<sub>* equal contributions</sub>\
+<sub>🎷 publications where I'm the lead author. Using this emoji because I'm a saxophonist :) </sub>
