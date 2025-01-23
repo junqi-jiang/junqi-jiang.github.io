@@ -16,55 +16,61 @@ I'm also involved in teaching and student supervision activities at Imperial, an
 
 Previously, I completed my MSc Computing degree from Imperial in 2021. I received two BEng degrees (2020) from [the University of Edinburgh](https://www.ed.ac.uk/) and [South China University of Technology](https://www.scut.edu.cn/en/).
 
-## Research
+
+# Research
 
 ### 2025
 
-- [**Interpreting Language Reward Models via Contrastive Explanations**](https://arxiv.org/abs/2411.16502)\
-**J. Jiang**, T. Bewley, S. Mishra, F. Lecue, M. Veloso.\
-**\[ICLR 2025\]**  *The 13th International Conference on Learning Representations*
+[**Interpreting Language Reward Models via Contrastive Explanations**](https://arxiv.org/abs/2411.16502)\
+**[ICLR 2025]**  *The 13th International Conference on Learning Representations*\
+**J. Jiang**, T. Bewley, S. Mishra, F. Lecue, M. Veloso
 
-- [**Explainable Reinforcement Learning for Formula One Race Strategy**](https://arxiv.org/abs/2501.04068)\
-D. Thomas, **J. Jiang**, A. Kori, A. Russo, S. Winkler, S. Sale, J. McMillan, F. Belardinelli, A. Rago \
-**\[SAC 2025\]** *The 40th ACM/SIGAPP Symposium on Applied Computing*
 
-- [**Explainable Time Series Prediction of Tyre Energy in Formula One Race Strategy**](https://arxiv.org/abs/2501.04067)\
-J. Todd, **J. Jiang**, A. Russo, S. Winkler, S. Sale, J. McMillan, A. Rago \
-**\[SAC 2025\]** *The 40th ACM/SIGAPP Symposium on Applied Computing*
+[**Explainable Reinforcement Learning for Formula One Race Strategy**](https://arxiv.org/abs/2501.04068)\
+**[SAC 2025]** *The 40th ACM/SIGAPP Symposium on Applied Computing*\
+D. Thomas, **J. Jiang**, A. Kori, A. Russo, S. Winkler, S. Sale, J. McMillan, F. Belardinelli, A. Rago
+
+[**Explainable Time Series Prediction of Tyre Energy in Formula One Race Strategy**](https://arxiv.org/abs/2501.04067)\
+**[SAC 2025]** *The 40th ACM/SIGAPP Symposium on Applied Computing*\
+J. Todd, **J. Jiang**, A. Russo, S. Winkler, S. Sale, J. McMillan, A. Rago
+
+---
 
 ### 2024
 
-- [**Interval Abstractions for Robust Counterfactual Explanations**](https://doi.org/10.1016/j.artint.2024.104218)\
-**J. Jiang**, F. Leofante, A. Rago, F. Toni. \
-**\[AIJ 2024\]**  *Artificial Intelligence Journal*
+[**Interval Abstractions for Robust Counterfactual Explanations**](https://doi.org/10.1016/j.artint.2024.104218)\
+**[AIJ 2024]**  *Artificial Intelligence Journal*\
+**J. Jiang**, F. Leofante, A. Rago, F. Toni
 
-- [**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://www.ijcai.org/proceedings/2024/894)\
-**J. Jiang**, F. Leofante, A. Rago, F. Toni. \
-**\[IJCAI 2024\]**  *The 33rd International Joint Conference on Artificial Intelligence, Survey Track*
+[**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://www.ijcai.org/proceedings/2024/894)\
+**[IJCAI 2024]**  *The 33rd International Joint Conference on Artificial Intelligence, Survey Track*\
+**J. Jiang**, F. Leofante, A. Rago, F. Toni
 
-- [**Recourse under Model Multiplicity via Argumentative Ensembling**](https://dl.acm.org/doi/10.5555/3635637.3662950)\
-**J. Jiang**, F. Leofante, A. Rago, F. Toni. \
-**\[AAMAS 2024\]**  *The 23rd International Conference on Autonomous Agents and Multi-Agent Systems*\
-**Nominated for Best Student Paper Award at AAMAS 2024, runner-up.**
+[**Recourse under Model Multiplicity via Argumentative Ensembling**](https://dl.acm.org/doi/10.5555/3635637.3662950)\
+**[AAMAS 2024]**  *The 23rd International Conference on Autonomous Agents and Multi-Agent Systems*\
+**J. Jiang**, F. Leofante, A. Rago, F. Toni\
+**Nominated for Best Student Paper Award at AAMAS 2024, runner-up**
 
-- [**Contestable AI needs Computational Argumentation**](https://arxiv.org/abs/2405.10729)\
-F. Leofante, H. Ayoobi, A. Dejl, G. Freedman, D. Gorur, **J. Jiang**, G. Paulino-Passos, A. Rago, A. Rapberger, F. Russo, X. Yin, D. Zhang, F. Toni. \
-**\[KR 2024\]** *The 21st International Conference on Principles of Knowledge Representation and Reasoning*
+[**Contestable AI needs Computational Argumentation**](https://arxiv.org/abs/2405.10729)\
+**[KR 2024]** *The 21st International Conference on Principles of Knowledge Representation and Reasoning*\
+F. Leofante, H. Ayoobi, A. Dejl, G. Freedman, D. Gorur, **J. Jiang**, G. Paulino-Passos, A. Rago, A. Rapberger, F. Russo, X. Yin, D. Zhang, F. Toni
 
-- [**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://arxiv.org/abs/2406.13724)\
-X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar. \
-**\[Preprint 2024\]**
+[**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://arxiv.org/abs/2406.13724)\
+**[Preprint 2024]**\
+X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar
+
+---
 
 ### 2023
 
-- [**Formalising the Robustness of Counterfactual Explanations for Neural Networks**](https://ojs.aaai.org/index.php/AAAI/article/view/26740)\
-**J. Jiang**\*, F. Leofante\*, A. Rago, F. Toni. \
-**\[AAAI 2023\]**  *The 37th AAAI Conference on Artificial Intelligence*
+[**Formalising the Robustness of Counterfactual Explanations for Neural Networks**](https://ojs.aaai.org/index.php/AAAI/article/view/26740)\
+**[AAAI 2023]**  *The 37th AAAI Conference on Artificial Intelligence*\
+**J. Jiang**\*, F. Leofante\*, A. Rago, F. Toni
 
-- [**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**](https://proceedings.mlr.press/v222/jiang24a.html)\
-**J. Jiang**, J. Lan, F. Leofante, A. Rago, F. Toni. \
-**\[ACML 2023\]**  *The 15th Asian Conference on Machine Learning*
-
-
+[**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**](https://proceedings.mlr.press/v222/jiang24a.html)\
+**[ACML 2023]**  *The 15th Asian Conference on Machine Learning*\
+**J. Jiang**, J. Lan, F. Leofante, A. Rago, F. Toni
 
 <sub>*equal contributions</sub>
+
+---
