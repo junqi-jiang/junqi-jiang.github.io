@@ -21,7 +21,7 @@ Previously, I completed my MSc Computing degree from Imperial in 2021. I receive
 
 ## 2025
 
-[**Interpreting Language Reward Models via Contrastive Explanations**](https://arxiv.org/abs/2411.16502)\
+🎷 [**Interpreting Language Reward Models via Contrastive Explanations**](https://arxiv.org/abs/2411.16502)\
 **[ICLR 2025]**  *The 13th International Conference on Learning Representations*\
 **J. Jiang**, T. Bewley, S. Mishra, F. Lecue, M. Veloso
 
