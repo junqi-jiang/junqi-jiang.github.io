@@ -29,6 +29,10 @@ Previously, I completed my MSc Computer Science degree from Imperial in 2021. I 
 **[Preprint 2025]**\
 **J. Jiang**, L. Marzari, A. Purohit, F. Leofante
 
+[**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://arxiv.org/abs/2406.13724)\
+**[Information Fusion 2025]**\
+X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar
+
 [**Explainable Reinforcement Learning for Formula One Race Strategy**](https://arxiv.org/abs/2501.04068)\
 **[SAC 2025]** *The 40th ACM/SIGAPP Symposium on Applied Computing*\
 D. Thomas, **J. Jiang**, A. Kori, A. Russo, S. Winkler, S. Sale, J. McMillan, F. Belardinelli, A. Rago
@@ -41,7 +45,7 @@ J. Todd, **J. Jiang**, A. Russo, S. Winkler, S. Sale, J. McMillan, A. Rago
 ## 2024
 
 🎷 [**Interval Abstractions for Robust Counterfactual Explanations**](https://doi.org/10.1016/j.artint.2024.104218)\
-**[AIJ 2024]**  *Artificial Intelligence Journal*\
+**[AIJ 2024]**  *Artificial Intelligence*\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni
 
 🎷 [**Robust Counterfactual Explanations in Machine Learning: A Survey**](https://www.ijcai.org/proceedings/2024/894)\
@@ -56,11 +60,6 @@ J. Todd, **J. Jiang**, A. Russo, S. Winkler, S. Sale, J. McMillan, A. Rago
 [**Contestable AI needs Computational Argumentation**](https://arxiv.org/abs/2405.10729)\
 **[KR 2024]** *The 21st International Conference on Principles of Knowledge Representation and Reasoning*\
 F. Leofante, H. Ayoobi, A. Dejl, G. Freedman, D. Gorur, **J. Jiang**, G. Paulino-Passos, A. Rago, A. Rapberger, F. Russo, X. Yin, D. Zhang, F. Toni
-
-[**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://arxiv.org/abs/2406.13724)\
-**[Preprint 2024]**\
-X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar
-
 
 ## 2023
 
