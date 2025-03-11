@@ -20,6 +20,8 @@ My research interest lies in the broad field of **AI trustworthiness**. I have f
 
 I'm also interested in the application of explainablility, and have contributed to applied machine learning projects for city planning and Formula One race strategy.
 
+So far, my research works have been published at top venues like *ICLR*, *AAAI*, *IJCAI*, *AAMAS*, *KR* conferences, and *Artificial Intelligence*, *Information Fusion* journals, including 7 first-authored papers. Below is the list of all my publications. Please also refer to my [Google Scholar](https://scholar.google.com/citations?user=NcFKI8kAAAAJ&hl=en) page. 
+
 Feel free to get in touch via [email](mailto:junqi.jiang@imperial.ac.uk) or [LinkedIn](https://www.linkedin.com/in/junqijiang/)!
 
 
