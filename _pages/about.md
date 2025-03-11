@@ -8,20 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Computer Science Student (started April 2022) at the [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/) group at [Department of Computing](https://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr Francesco Leofante](https://fraleo.github.io/), funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). From June to December 2024, I interned as an AI Research Associate at J.P. Morgan [Explainable AI Center of Excellence](https://www.jpmorgan.com/technology/artificial-intelligence/initiatives/explainable-ai-center-of-excellence), working with [Dr Tom Bewley](https://tombewley.com/) and [Dr Saumitra Mishra](https://sites.google.com/site/saumitramishrac4dm).
+I am a PhD Computer Science Student (started April 2022) at the [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/) group at [Department of Computing](https://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/), working with [Dr Francesco Leofante](https://fraleo.github.io/) and [Dr Antonio Rago](https://www.doc.ic.ac.uk/~afr114/). My PhD is funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I'm a teaching assistant during PhD. I also supervise thesis for undergraduate and taught postgraduate students. 
 
-My research interest spans the spectrum of AI trustworthiness, including explainable AI, mechanistic interpretability, robustness, fairness, privacy, etc. I have mostly worked on improving the quality of counterfactual explanations (for recourse purposes) by studying their robustness, and topics related to model multiplicity. I'm also interested in leveraging interpretability techniques for machine learning model evaluation and improvements. 
+From June to December 2024, I interned as an AI Research Associate at J.P. Morgan [Explainable AI Center of Excellence](https://www.jpmorgan.com/technology/artificial-intelligence/initiatives/explainable-ai-center-of-excellence), working with [Dr Tom Bewley](https://tombewley.com/) and [Dr Saumitra Mishra](https://sites.google.com/site/saumitramishrac4dm). 
 
-I'm involved in teaching and student supervision activities at Imperial. I'm also part of some applied projects like explainable graph neural networks for city planning and deep learning for Formula One race strategy.
-
-Previously, I completed my MSc Computer Science degree from Imperial in 2021. I received two BEng degrees (2020) from [the University of Edinburgh](https://www.ed.ac.uk/) and [South China University of Technology](https://www.scut.edu.cn/en/).
-
+Previously, I completed an MSc Computer Science degree from Imperial. I hold two BEng Electrical Engineering degrees from [The University of Edinburgh](https://www.ed.ac.uk/) and [South China University of Technology](https://www.scut.edu.cn/en/).
 
 # Research
 
+My research interest lies in the broad field of **AI trustworthiness**. I have focused on **robust explainable AI** - specifically robust counterfactual explanations for recourse purposes, and topics in **model multiplicity** - when there are multiple competing machine learning models potentially giving conflicting predictions, also known as predictive multiplicity. I have worked on these topics in both traditional machine learning for tabular data and modern large language models (LLM) for textual data.
+
+I'm also interested in the application of explainablility, and have contributed to applied machine learning projects for city planning and Formula One race strategy.
+
+Feel free to get in touch via [email](mailto:junqi.jiang@imperial.ac.uk) or [LinkedIn](https://www.linkedin.com/in/junqijiang/)!
+
+
 ## 2025
 
-🎷 [**Interpreting Language Reward Models via Contrastive Explanations**](https://arxiv.org/abs/2411.16502)\
+🎷 [**Interpreting Language Reward Models via Contrastive Explanations**](https://openreview.net/forum?id=i8IwcQBi74)\
 **[ICLR 2025]**  *The 13th International Conference on Learning Representations*\
 **J. Jiang**, T. Bewley, S. Mishra, F. Lecue, M. Veloso
 
@@ -29,8 +33,8 @@ Previously, I completed my MSc Computer Science degree from Imperial in 2021. I 
 **[Preprint 2025]**\
 **J. Jiang**, L. Marzari, A. Purohit, F. Leofante
 
-[**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://arxiv.org/abs/2406.13724)\
-**[Information Fusion 2025]**\
+[**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://doi.org/10.1016/j.inffus.2025.103057)\
+**[Inf. Fusion 2025]** *Information Fusion*\
 X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar
 
 [**Explainable Reinforcement Learning for Formula One Race Strategy**](https://arxiv.org/abs/2501.04068)\
