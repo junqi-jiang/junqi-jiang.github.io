@@ -61,7 +61,7 @@ J. Todd, **J. Jiang**, A. Russo, S. Winkler, S. Sale, J. McMillan, A. Rago
 🎷 [**Recourse under Model Multiplicity via Argumentative Ensembling**](https://dl.acm.org/doi/10.5555/3635637.3662950)\
 **[AAMAS 2024]**  *The 23rd International Conference on Autonomous Agents and Multi-Agent Systems*\
 **J. Jiang**, F. Leofante, A. Rago, F. Toni\
-**Nominated for Best Student Paper Award at AAMAS 2024, runner-up**
+**Nominated for Best Student Paper Award at AAMAS 2024 (3 out of 883 submissions), runner-up.**
 
 [**Contestable AI needs Computational Argumentation**](https://arxiv.org/abs/2405.10729)\
 **[KR 2024]** *The 21st International Conference on Principles of Knowledge Representation and Reasoning*\
