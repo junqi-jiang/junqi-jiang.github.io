@@ -16,7 +16,7 @@ Previously, I completed an MSc Computer Science degree from Imperial. I hold two
 
 # Research
 
-My research interest lies in the broad field of **AI trustworthiness**. I have focused on **robust explainable AI** - specifically robust counterfactual explanations for recourse purposes, and topics in **model multiplicity** - when there are multiple competing machine learning models potentially giving conflicting predictions, also known as predictive multiplicity. I have worked on these topics in both traditional machine learning for tabular data and modern large language models (LLM) for textual data.
+My research interest lies in the broad field of **Trustworthy AI**. I have focused on **robust explainable AI** - specifically robust counterfactual explanations for recourse purposes, and topics in **model multiplicity** - when there are multiple competing machine learning models potentially giving conflicting predictions, also known as predictive multiplicity. I have worked on these topics in both traditional machine learning for tabular data and modern large language models (LLM) for textual data.
 
 I'm also interested in the application of explainablility, and have contributed to applied machine learning projects for city planning and Formula One race strategy.
 
@@ -32,7 +32,7 @@ Feel free to get in touch via [email](mailto:junqi.jiang@imperial.ac.uk) or [Lin
 **J. Jiang**, T. Bewley, S. Mishra, F. Lecue, M. Veloso
 
 🎷 [**RobustX: Robust Counterfactual Explanations Made Easy**](https://arxiv.org/abs/2502.13751)\
-**[Preprint 2025]**\
+**[IJCAI 2025]** *The 34th International Joint Conference on Artificial Intelligence, Demonstrations Track*\
 **J. Jiang**, L. Marzari, A. Purohit, F. Leofante
 
 [**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://doi.org/10.1016/j.inffus.2025.103057)\
