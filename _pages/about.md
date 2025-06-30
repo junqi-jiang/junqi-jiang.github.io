@@ -35,6 +35,14 @@ Feel free to get in touch via [email](mailto:junqi.jiang@imperial.ac.uk) or [Lin
 **[IJCAI 2025]** *The 34th International Joint Conference on Artificial Intelligence, Demonstrations Track*\
 **J. Jiang**, L. Marzari, A. Purohit, F. Leofante
 
+🎷 [**Representation Consistency for Accurate and Coherent LLM Answer Aggregation**](https://arxiv.org/abs/2506.21590)\
+**[Preprint 2025]** Arxiv\
+**J. Jiang**, T. Bewley, S. I. Amoukou, F. Leofante, A. Rago, S. Mishra, F. Toni
+
+🎷 [**Argumentative Ensembling for Robust Recourse under Model Multiplicity**](https://arxiv.org/abs/2506.20260)\
+**[Preprint 2025]** Arxiv\
+**J. Jiang**\*, A. Rago\*, F. Leofante, F. Toni
+
 [**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**](https://doi.org/10.1016/j.inffus.2025.103057)\
 **[Inf. Fusion 2025]** *Information Fusion*\
 X. Zhai, **J. Jiang**, A. Dejl, A. Rago, F. Guo, F. Toni, A. Sivakumar
@@ -80,4 +88,4 @@ F. Leofante, H. Ayoobi, A. Dejl, G. Freedman, D. Gorur, **J. Jiang**, G. Paulino
 ---
 
 <sub>* equal contributions</sub>\
-<sub>🎷 publications where I'm the lead author. Using this emoji because I'm a saxophonist :) </sub>
+<sub>🎷 publications where I'm a lead author. Using this emoji because I'm a saxophonist :) </sub>
