@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Computer Science Student (Apr 2022 - Sept 2025) at the [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/) group at [Department of Computing](https://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/), working with [Dr Francesco Leofante](https://fraleo.github.io/) and [Dr Antonio Rago](https://www.doc.ic.ac.uk/~afr114/). My PhD is funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I'm a teaching assistant during PhD. I also supervise thesis for undergraduate and taught postgraduate students. 
-
-From June to December 2024, I interned as an AI Research Associate at J.P. Morgan [Explainable AI Center of Excellence](https://www.jpmorgan.com/technology/artificial-intelligence/initiatives/explainable-ai-center-of-excellence), working with [Dr Tom Bewley](https://tombewley.com/) and [Dr Saumitra Mishra](https://sites.google.com/site/saumitramishrac4dm). 
-
-Previously, I completed an MSc Computer Science degree from Imperial. I hold two BEng Electrical Engineering degrees from [The University of Edinburgh](https://www.ed.ac.uk/) and [South China University of Technology](https://www.scut.edu.cn/en/).
+I am a PhD Computer Science Student (Apr 2022 - Sept 2025) at the [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/) group at [Department of Computing](https://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/), working with [Dr Francesco Leofante](https://fraleo.github.io/) and [Dr Antonio Rago](https://www.doc.ic.ac.uk/~afr114/). My PhD is funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I'm a teaching assistant during PhD. I also supervise thesis for undergraduate and taught postgraduate students. From June to December 2024, I interned as an AI Research Associate at J.P. Morgan [Explainable AI Center of Excellence](https://www.jpmorgan.com/technology/artificial-intelligence/initiatives/explainable-ai-center-of-excellence). Previously, I completed an MSc Computer Science degree from Imperial. I hold two BEng Electrical Engineering degrees from [The University of Edinburgh](https://www.ed.ac.uk/) and [South China University of Technology](https://www.scut.edu.cn/en/).
 
 # Research
 
-My research interest lies in the broad field of **Trustworthy AI**. I have focused on **robust explainable AI** - specifically robust counterfactual explanations for recourse purposes, and topics in **model multiplicity** - when there are multiple competing machine learning models potentially giving conflicting predictions, also known as predictive multiplicity. I have worked on these topics in both traditional machine learning for tabular data and modern large language models (LLM) for textual data.
+My research interest lies in the broad field of **Trustworthy AI**. I have focused on **robust explainable AI** - specifically robust counterfactual explanations for recourse purposes, and topics in **model multiplicity** - when there are multiple competing machine learning models potentially giving conflicting predictions, also known as predictive multiplicity. I have worked on these topics in both traditional machine learning for tabular data and large language models (LLM) for textual data.
 
 I'm also interested in the application of explainablility, and have contributed to applied machine learning projects for city planning and Formula One race strategy.
 
@@ -34,6 +30,10 @@ Feel free to get in touch via [email](mailto:junqi.jiang@imperial.ac.uk) or [Lin
 🎷 [**RobustX: Robust Counterfactual Explanations Made Easy**](https://arxiv.org/abs/2502.13751)\
 **[IJCAI 2025]** *The 34th International Joint Conference on Artificial Intelligence, Demonstrations Track*\
 **J. Jiang**, L. Marzari, A. Purohit, F. Leofante
+
+🎷 [**MArgE: Meshing Argumentative Evidence from Multiple Large Language Models for Justifiable Claim Verification**](https://arxiv.org/abs/2508.02584)\
+**[Preprint 2025]** Arxiv\
+M. Ng\*,  **J. Jiang**\*, G. Freedman, A. Rago, F. Toni
 
 🎷 [**Representation Consistency for Accurate and Coherent LLM Answer Aggregation**](https://arxiv.org/abs/2506.21590)\
 **[Preprint 2025]** Arxiv\
