@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Computer Science Student (Apr 2022 - Sept 2025) at the [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/) group at [Department of Computing](https://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/), working with [Dr Francesco Leofante](https://fraleo.github.io/) and [Dr Antonio Rago](https://www.doc.ic.ac.uk/~afr114/). My PhD is funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I'm a teaching assistant during PhD. I also supervise thesis for undergraduate and taught postgraduate students. From June to December 2024, I interned as an AI Research Associate at J.P. Morgan [Explainable AI Center of Excellence](https://www.jpmorgan.com/technology/artificial-intelligence/initiatives/explainable-ai-center-of-excellence). Previously, I completed an MSc Computer Science degree from Imperial. I hold two BEng Electrical Engineering degrees from [The University of Edinburgh](https://www.ed.ac.uk/) and [South China University of Technology](https://www.scut.edu.cn/en/).
+I am a PhD Computer Science Student (Apr 2022 - Sept 2025) at the [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/) group at [Department of Computing](https://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/), supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/), working with [Dr Francesco Leofante](https://fraleo.github.io/) and [Dr Antonio Rago](https://www.doc.ic.ac.uk/~afr114/). My PhD is funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I'm a teaching assistant during PhD. I also supervise thesis for undergraduate and taught postgraduate students. From June to December 2024, I interned as an AI Research Associate at J.P. Morgan [Trustworthy AI Center of Excellence]([https://www.jpmorgan.com/technology/artificial-intelligence/initiatives/explainable-ai-center-of-excellence](https://www.jpmorganchase.com/about/technology/research/ai/trustai)). Previously, I completed an MSc Computer Science degree from Imperial. I hold two BEng Electrical Engineering degrees from [The University of Edinburgh](https://www.ed.ac.uk/) and [South China University of Technology](https://www.scut.edu.cn/en/).
 
 # Research
 
@@ -18,7 +18,7 @@ I'm also interested in the application of explainablility, and have contributed 
 
 So far, my research works have been published at top venues like *ICLR*, *AAAI*, *IJCAI*, *AAMAS*, *KR* conferences, and *Artificial Intelligence*, *Information Fusion* journals. Below is the list of all my publications. Please also refer to my [Google Scholar](https://scholar.google.com/citations?user=NcFKI8kAAAAJ&hl=en) page. 
 
-Feel free to get in touch via [email](mailto:junqi.jiang@imperial.ac.uk) or [LinkedIn](https://www.linkedin.com/in/junqijiang/)!
+Feel free to get in touch via email or [LinkedIn](https://www.linkedin.com/in/junqijiang/)!
 
 
 ## 2025
