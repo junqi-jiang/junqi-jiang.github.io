@@ -16,12 +16,16 @@ My research interest lies in the broad field of **Trustworthy AI**. I have focus
 
 I'm also interested in the application of explainablility, and have contributed to applied machine learning projects for city planning and Formula One race strategy.
 
-So far, my research works have been published at top venues like *ICLR*, *AAAI*, *IJCAI*, *AAMAS*, *KR* conferences, and *Artificial Intelligence*, *Information Fusion* journals. Below is the list of all my publications. Please also refer to my [Google Scholar](https://scholar.google.com/citations?user=NcFKI8kAAAAJ&hl=en) page. 
+So far, my research works have been published at top venues like *NeurIPS*, *ICLR*, *AAAI*, *IJCAI*, *AAMAS*, *KR* conferences, and *Artificial Intelligence*, *Information Fusion* journals. Below is the list of all my publications. Please also refer to my [Google Scholar](https://scholar.google.com/citations?user=NcFKI8kAAAAJ&hl=en) page. 
 
 Feel free to get in touch via email or [LinkedIn](https://www.linkedin.com/in/junqijiang/)!
 
 
 ## 2025
+
+🎷 [**Representation Consistency for Accurate and Coherent LLM Answer Aggregation**](https://arxiv.org/abs/2506.21590)\
+**[NeurIPS 2025]** *The 39th Annual Conference on Neural Information Processing Systems*\
+**J. Jiang**, T. Bewley, S. I. Amoukou, F. Leofante, A. Rago, S. Mishra, F. Toni
 
 🎷 [**Interpreting Language Reward Models via Contrastive Explanations**](https://openreview.net/forum?id=i8IwcQBi74)\
 **[ICLR 2025]**  *The 13th International Conference on Learning Representations*\
@@ -34,10 +38,6 @@ Feel free to get in touch via email or [LinkedIn](https://www.linkedin.com/in/ju
 🎷 [**MArgE: Meshing Argumentative Evidence from Multiple Large Language Models for Justifiable Claim Verification**](https://arxiv.org/abs/2508.02584)\
 **[Preprint 2025]** Arxiv\
 M. Ng\*,  **J. Jiang**\*, G. Freedman, A. Rago, F. Toni
-
-🎷 [**Representation Consistency for Accurate and Coherent LLM Answer Aggregation**](https://arxiv.org/abs/2506.21590)\
-**[Preprint 2025]** Arxiv\
-**J. Jiang**, T. Bewley, S. I. Amoukou, F. Leofante, A. Rago, S. Mishra, F. Toni
 
 🎷 [**Argumentative Ensembling for Robust Recourse under Model Multiplicity**](https://arxiv.org/abs/2506.20260)\
 **[Preprint 2025]** Arxiv\
