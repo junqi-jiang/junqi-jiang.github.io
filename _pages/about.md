@@ -37,7 +37,7 @@ Feel free to get in touch via email or [LinkedIn](https://www.linkedin.com/in/ju
 
 🎷 [**Synthesising Counterfactual Explanations via Label-Conditional Gaussian Mixture Variational Autoencoders**](https://arxiv.org/abs/2510.04855)\
 **[Preprint 2025]** Arxiv\
-**J. Jiang**\*, A. Rago\*, F. Leofante, F. Toni
+**J. Jiang**, A. Rago, F. Leofante, F. Toni
 
 🎷 [**MArgE: Meshing Argumentative Evidence from Multiple Large Language Models for Justifiable Claim Verification**](https://arxiv.org/abs/2508.02584)\
 **[Preprint 2025]** Arxiv\
