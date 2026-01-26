@@ -20,6 +20,11 @@ So far, my research works have been published at top venues like *NeurIPS*, *ICL
 
 Feel free to get in touch via email or [LinkedIn](https://www.linkedin.com/in/junqijiang/)!
 
+## 2026
+
+🎷 [**Synthesising Counterfactual Explanations via Label-Conditional Gaussian Mixture Variational Autoencoders**](https://arxiv.org/abs/2510.04855)\
+**[ICLR 2026]**  *The 14th International Conference on Learning Representations*\
+**J. Jiang**, A. Rago, F. Leofante, F. Toni
 
 ## 2025
 
@@ -34,10 +39,6 @@ Feel free to get in touch via email or [LinkedIn](https://www.linkedin.com/in/ju
 🎷 [**RobustX: Robust Counterfactual Explanations Made Easy**](https://arxiv.org/abs/2502.13751)\
 **[IJCAI 2025]** *The 34th International Joint Conference on Artificial Intelligence, Demonstrations Track*\
 **J. Jiang**, L. Marzari, A. Purohit, F. Leofante
-
-🎷 [**Synthesising Counterfactual Explanations via Label-Conditional Gaussian Mixture Variational Autoencoders**](https://arxiv.org/abs/2510.04855)\
-**[Preprint 2025]** Arxiv\
-**J. Jiang**, A. Rago, F. Leofante, F. Toni
 
 🎷 [**MArgE: Meshing Argumentative Evidence from Multiple Large Language Models for Justifiable Claim Verification**](https://arxiv.org/abs/2508.02584)\
 **[Preprint 2025]** Arxiv\
