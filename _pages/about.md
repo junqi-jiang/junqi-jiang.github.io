@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI Research Scientist at J.P. Morgan [Trustworthy AI Center of Excellence](https://www.jpmorganchase.com/about/technology/research/ai/trustai). I did my PhD in Computer Science at the [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/) group at [Department of Computing](https://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/). I was supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/), working closely with [Dr Francesco Leofante](https://fraleo.github.io/) and [Dr Antonio Rago](https://antoniorago.github.io/). My PhD was funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I'm a teaching assistant for deep learning, NLP, and programming courses during PhD. I also supervised theses for MEng and MSc students. From June to December 2024, I interned at J.P. Morgan AI Research. Previously, I completed an MSc Computer Science degree from Imperial. I hold two BEng Electrical Engineering degrees from [The University of Edinburgh](https://www.ed.ac.uk/) and [South China University of Technology](https://www.scut.edu.cn/en/).
+I am an AI Research Scientist at J.P. Morgan [Trustworthy AI Center of Excellence](https://www.jpmorganchase.com/about/technology/research/ai/trustai). I did my PhD in Computer Science at the [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/) group at [Department of Computing](https://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/). I was supervised by [Professor Francesca Toni](https://www.doc.ic.ac.uk/~ft/), working closely with [Dr Francesco Leofante](https://fraleo.github.io/) and [Dr Antonio Rago](https://antoniorago.github.io/). My PhD was funded by [the Interactive Explainable AI project](https://raeng.org.uk/programmes-and-prizes/programmes/meet-the-researchers/professor-francesca-toni). I was a teaching assistant for deep learning, NLP, and programming courses during PhD. I also supervised theses for MEng and MSc students. From June to December 2024, I interned at J.P. Morgan AI Research. Previously, I completed an MSc Computer Science degree from Imperial. I hold two BEng Electrical Engineering degrees from [The University of Edinburgh](https://www.ed.ac.uk/) and [South China University of Technology](https://www.scut.edu.cn/en/).
 
 # Research
 
-My research interest lies in the broad field of **Trustworthy AI**. I have focused on **robust explainable AI** - specifically robust counterfactual explanations for recourse purposes, and topics in **model multiplicity** - when there are multiple competing machine learning models potentially giving conflicting predictions, also known as predictive multiplicity. I have worked on these topics in both traditional machine learning for tabular data and large language models (LLM) for textual data.
+My research interest is in the broad field of **Trustworthy AI**. I am now focusing on **security** aspects of Large Language Models (LLM) and multimodal (audio + text) foundation models. 
+
+Before, I have focused on **robust explainable AI** - specifically robust counterfactual explanations for recourse purposes, and topics in **model multiplicity** - when there are multiple competing machine learning models potentially giving conflicting predictions, also known as predictive multiplicity. I have worked on these topics in both traditional machine learning models and LLMs.
 
 I'm also interested in the application of explainability, and have contributed to applied machine learning projects for city planning and Formula One race strategy.
 
@@ -25,6 +27,14 @@ Feel free to get in touch via email or [LinkedIn](https://www.linkedin.com/in/ju
 🎷 [**Synthesising Counterfactual Explanations via Label-Conditional Gaussian Mixture Variational Autoencoders**](https://arxiv.org/abs/2510.04855)\
 **[ICLR 2026]**  *The 14th International Conference on Learning Representations*\
 **J. Jiang**, A. Rago, F. Leofante, F. Toni
+
+[**Race Strategy Reinforcement Learning: Optimising Pitstop Strategy with Emergent Tactics in Formula One**](https://link.springer.com/article/10.1007/s10994-026-07081-3)\
+**[MLJ 2026]**  *Machine Learning*\
+D. Thomas, **J. Jiang**, A. Kori, A. Russo, S. Winkler, S. Sale, J. McMillan, F. Belardinelli, A. Rago
+
+[**Neurosymbolic Learning for Inference-Time Argumentation**](https://arxiv.org/abs/2605.20098)\
+**[Preprint 2026]** Arxiv\
+G. Freedman, A. Dejl, A. Gould, Mansi, L. Chen, **J. Jiang**, F. Toni
 
 ## 2025
 
