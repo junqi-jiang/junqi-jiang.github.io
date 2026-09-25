@@ -28,13 +28,14 @@ Feel free to get in touch via email or [LinkedIn](https://www.linkedin.com/in/ju
 **[ICLR 2026]**  *The 14th International Conference on Learning Representations*\
 **J. Jiang**, A. Rago, F. Leofante, F. Toni
 
+[**Neurosymbolic Learning for Inference-Time Argumentation**](https://arxiv.org/abs/2605.20098)\
+**[NeurIPS 2026]** *The 40th Annual Conference on Neural Information Processing Systems*\
+G. Freedman, A. Dejl, A. Gould, Mansi, L. Chen, **J. Jiang**, F. Toni
+
 [**Race Strategy Reinforcement Learning: Optimising Pitstop Strategy with Emergent Tactics in Formula One**](https://link.springer.com/article/10.1007/s10994-026-07081-3)\
 **[MLJ 2026]**  *Machine Learning*\
 D. Thomas, **J. Jiang**, A. Kori, A. Russo, S. Winkler, S. Sale, J. McMillan, F. Belardinelli, A. Rago
 
-[**Neurosymbolic Learning for Inference-Time Argumentation**](https://arxiv.org/abs/2605.20098)\
-**[Preprint 2026]** Arxiv\
-G. Freedman, A. Dejl, A. Gould, Mansi, L. Chen, **J. Jiang**, F. Toni
 
 ## 2025
 
